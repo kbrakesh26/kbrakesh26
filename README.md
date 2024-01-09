@@ -1,11 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
-<h3 align="center">A passionate android developer from India</h3>
-<img align=" right" alt="Coding" width="400" src="https://imgs.search.brave.com/FfVCTDaDI3JM0O7h5QtuGzc6f0YbMytfcTB80hdlRts/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS8x/OWRiNTFhZjVmOTBm/MWIxNTJiYzBiOTA3/OGY1ZmU5NzA1Mzk1/NWJlNTA3NGYwM2Yx/NzAxOWM3MDM0NWJk/Y2RiLzY4NzQ3NDcw/NzMzYTJmMmY2ZDY5/NzI2ZjJlNmQ2NTY0/Njk3NTZkMmU2MzZm/NmQyZjZkNjE3ODJm/MzEzMzM2MzAyZjMw/MmEzNzUxMzM3OTc2/NTM0OTc2NWY3NDMw/Njk2ZjRhMmQ1YTJl/Njc2OTY2">
+<h3 align="center">A passionate Software Developer from India</h3>
+<img align=" right" alt="Coding" width="500" src="https://imgs.search.brave.com/FfVCTDaDI3JM0O7h5QtuGzc6f0YbMytfcTB80hdlRts/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS8x/OWRiNTFhZjVmOTBm/MWIxNTJiYzBiOTA3/OGY1ZmU5NzA1Mzk1/NWJlNTA3NGYwM2Yx/NzAxOWM3MDM0NWJk/Y2RiLzY4NzQ3NDcw/NzMzYTJmMmY2ZDY5/NzI2ZjJlNmQ2NTY0/Njk3NTZkMmU2MzZm/NmQyZjZkNjE3ODJm/MzEzMzM2MzAyZjMw/MmEzNzUxMzM3OTc2/NTM0OTc2NWY3NDMw/Njk2ZjRhMmQ1YTJl/Njc2OTY2">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbrakesh26&label=Profile%20views&color=0e75b6&style=flat" alt="kbrakesh26" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/xvo0syojyhpxlse" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/xvo0syojyhpxlse?logo=twitter&style=for-the-badge" alt="https://twitter.com/xvo0syojyhpxlse" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/xvo0syojyhpxlse" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/xvo0syojyhpxlse?logo=twitter&style=for-the-badge" alt="xvo0syojyhpxlse" /></a> </p>
 
 - 🌱 I’m currently learning **DSA**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rakeshkbind729@gmail.com**
 
-- ⚡ Fun fact **I'm too much funny.**
+- ⚡ Fun fact: **I'm too much funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
