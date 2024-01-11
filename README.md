@@ -1,7 +1,8 @@
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align=" right" alt="Coding" width="500" src="https://imgs.search.brave.com/FfVCTDaDI3JM0O7h5QtuGzc6f0YbMytfcTB80hdlRts/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS8x/OWRiNTFhZjVmOTBm/MWIxNTJiYzBiOTA3/OGY1ZmU5NzA1Mzk1/NWJlNTA3NGYwM2Yx/NzAxOWM3MDM0NWJk/Y2RiLzY4NzQ3NDcw/NzMzYTJmMmY2ZDY5/NzI2ZjJlNmQ2NTY0/Njk3NTZkMmU2MzZm/NmQyZjZkNjE3ODJm/MzEzMzM2MzAyZjMw/MmEzNzUxMzM3OTc2/NTM0OTc2NWY3NDMw/Njk2ZjRhMmQ1YTJl/Njc2OTY2">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbrakesh26&label=Profile%20views&color=0e75b6&style=flat" alt="kbrakesh26" /> </p>
 
